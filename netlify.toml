@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://home.jxqf.dpdns.org:13002/:splat"
+  to = "http://home.jxqf.dpdns.org:3002/:splat"
   status = 200
   force = true
